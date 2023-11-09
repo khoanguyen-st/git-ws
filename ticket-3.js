@@ -1,0 +1,1 @@
+console.log("It is created from ticket 3.1")
